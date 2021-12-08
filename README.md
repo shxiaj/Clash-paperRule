@@ -1,5 +1,6 @@
 # Clash-paperRule
 Clash文献出版社直接代理规则
+
 在校使用校园网浏览下载文献时，跳过这些出版社的网站代理
 ```yaml
 - DOMAIN-SUFFIX,manual.gromacs.org,DIRECT
